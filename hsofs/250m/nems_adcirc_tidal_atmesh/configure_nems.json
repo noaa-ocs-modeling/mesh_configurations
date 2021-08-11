@@ -1,0 +1,15 @@
+{
+  "executable_path": "../../../../repositories/CoastalApp_PaHM/ALLBIN_INSTALL/NEMS.x",
+  "modeled_start_time": "2018-08-30 06:00:00",
+  "modeled_end_time": "2018-09-13 18:00:00",
+  "interval": 3600.0,
+  "connections": [
+    "ATM -> OCN :remapMethod=nearest_stod"
+  ],
+  "mediations": [],
+  "sequence": [
+    "ATM -> OCN",
+    "ATM",
+    "OCN"
+  ]
+}
