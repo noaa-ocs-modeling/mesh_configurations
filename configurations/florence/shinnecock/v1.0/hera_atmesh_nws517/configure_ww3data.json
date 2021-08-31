@@ -1,0 +1,7 @@
+{
+  "nrs": 5,
+  "resource": "/scratch2/COASTAL/coastal/save/shared/models/forcings/shinnecock/ike/ww3.Constant.20151214_sxy_ike_date.nc",
+  "processors": 1,
+  "nems_parameters": {},
+  "modeled_timestep": "00:00:02"
+}

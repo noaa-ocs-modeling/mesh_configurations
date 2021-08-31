@@ -1,0 +1,14 @@
+{
+  "storm_id": "florence2018",
+  "interval": null,
+  "start_date": null,
+  "end_date": null,
+  "fort22_filename": null,
+  "nws": 20,
+  "attributes": {
+    "BLADj": null,
+    "geofactor": null,
+    "start_date": null,
+    "end_date": null
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "nws": 17,
+  "resource": "/scratch2/COASTAL/coastal/noscrub/Yuji.Funakoshi/nsem-workflow/data/com/atm/para/florence/Florence_HWRF_HRRR_EA120m.nc",
+  "processors": 1,
+  "nems_parameters": {},
+  "modeled_timestep": "01:00:00"
+}

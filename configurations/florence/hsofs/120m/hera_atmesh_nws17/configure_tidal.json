@@ -1,0 +1,14 @@
+{
+  "tidal_source": "TPXO",
+  "constituents": [
+    "Q1",
+    "O1",
+    "P1",
+    "K1",
+    "N2",
+    "M2",
+    "S2",
+    "K2"
+  ],
+  "resource": "/scratch2/COASTAL/coastal/save/shared/models/forcings/tides/h_tpxo9.v1.nc"
+}

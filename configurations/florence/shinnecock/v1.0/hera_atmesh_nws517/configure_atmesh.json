@@ -1,0 +1,7 @@
+{
+  "nws": 17,
+  "resource": "/scratch2/COASTAL/coastal/save/shared/models/forcings/shinnecock/ike/wind_atm_fin_ch_time_vec.nc",
+  "processors": 1,
+  "nems_parameters": {},
+  "modeled_timestep": "00:00:02"
+}
