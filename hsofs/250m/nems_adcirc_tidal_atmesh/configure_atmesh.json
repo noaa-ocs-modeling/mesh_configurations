@@ -1,7 +1,0 @@
-{
-  "nws": 17,
-  "resource": "../../../../models/forcings/hsofs/250m/florence/Florence_HWRF_HRRR_HSOFS.nc",
-  "processors": 1,
-  "nems_parameters": {},
-  "modeled_timestep": 2.0
-}
