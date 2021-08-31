@@ -9,7 +9,7 @@
   "fort_14_path": "/work/noaa/nosofs/share/models/meshes/hsofs/250m/Subsetted_Florence2018_Test/fort.14",
   "tidal_spinup_duration": "05:00:00:00",
   "tidal_spinup_timestep": "00:00:02",
-  "source_filename": "/work/noaa/nosofs/share/repositories/CoastalApp_PaHM/modulefiles/envmodules_intel.hera",
+  "source_filename": "/work/noaa/nosofs/share/repositories/CoastalApp_PaHM/modulefiles/envmodules_intel.orion",
   "use_original_mesh": false,
   "output_surface": true,
   "surface_output_interval": "01:00:00",
