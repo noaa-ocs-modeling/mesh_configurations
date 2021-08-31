@@ -1,0 +1,14 @@
+{
+  "storm_id": null,
+  "interval": "01:00:00",
+  "start_date": "2018-09-11 06:00:00",
+  "end_date": "2018-09-18 06:00:00",
+  "fort22_filename": "track_files/original.22",
+  "nws": 20,
+  "attributes": {
+    "BLADj": null,
+    "geofactor": null,
+    "start_date": null,
+    "end_date": null
+  }
+}
