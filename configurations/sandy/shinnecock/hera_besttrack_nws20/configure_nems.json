@@ -1,14 +1,14 @@
 {
   "executable_path": "/scratch2/COASTAL/coastal/save/shared/repositories/CoastalApp_PaHM/ALLBIN_INSTALL/NEMS.x",
-  "modeled_start_time": "2008-08-23",
-  "modeled_end_time": "2008-09-06 12:00:00",
+  "modeled_start_time": "2012-10-22 06:00:00",
+  "modeled_end_time": "2012-10-26 11:00:00",
   "interval": "01:00:00",
   "connections": [
-    "ATM -> OCN",
+    "ATM -> OCN :remapMethod=bilinear",
   ],
   "mediations": [],
   "sequence": [
-    "ATM -> OCN :remapMethod=bilinear",
+    "ATM -> OCN",
     "ATM",
     "OCN"
   ]

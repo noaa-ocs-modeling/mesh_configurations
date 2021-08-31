@@ -1,0 +1,7 @@
+{
+  "nrs": 5,
+  "resource": "/scratch2/COASTAL/coastal/save/shared/models/forcings/hsofs/sandy/ww3.HWRF.NOV2018.2012_sxy.nc",
+  "processors": 1,
+  "nems_parameters": {},
+  "modeled_timestep": 2.0
+}

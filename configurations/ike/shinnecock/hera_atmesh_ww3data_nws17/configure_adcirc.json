@@ -3,7 +3,7 @@
   "adcprep_executable_path": "/scratch2/COASTAL/coastal/save/shared/repositories/CoastalApp_PaHM/ALLBIN_INSTALL/adcprep",
   "aswip_executable_path": null, 
   "modeled_start_time": "2008-08-23",
-  "modeled_end_time": "2018-09-06 12:00:00",
+  "modeled_end_time": "2008-09-06 12:00:00",
   "modeled_timestep": "00:00:07",
   "fort_13_path": "/scratch2/COASTAL/coastal/save/shared/models/meshes/shinnecock/v1.0/fort.13",
   "fort_14_path": "/scratch2/COASTAL/coastal/save/shared/models/meshes/shinnecock/v1.0/fort.14",
