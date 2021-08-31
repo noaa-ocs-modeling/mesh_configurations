@@ -1,0 +1,210 @@
+{
+  "platform": "HERA",
+  "perturbations": {
+    "original": {
+      "besttrack": {
+        "fort22_filename": "track_files/original.22"
+      }
+    },
+    "vortex_4_variable_perturbation_1": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_1.22"
+      }
+    },
+    "vortex_4_variable_perturbation_2": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_2.22"
+      }
+    },
+    "vortex_4_variable_perturbation_3": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_3.22"
+      }
+    },
+    "vortex_4_variable_perturbation_4": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_4.22"
+      }
+    },
+    "vortex_4_variable_perturbation_5": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_5.22"
+      }
+    },
+    "vortex_4_variable_perturbation_6": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_6.22"
+      }
+    },
+    "vortex_4_variable_perturbation_7": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_7.22"
+      }
+    },
+    "vortex_4_variable_perturbation_8": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_8.22"
+      }
+    },
+    "vortex_4_variable_perturbation_9": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_9.22"
+      }
+    },
+    "vortex_4_variable_perturbation_10": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_10.22"
+      }
+    },
+    "vortex_4_variable_perturbation_11": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_11.22"
+      }
+    },
+    "vortex_4_variable_perturbation_12": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_12.22"
+      }
+    },
+    "vortex_4_variable_perturbation_13": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_13.22"
+      }
+    },
+    "vortex_4_variable_perturbation_14": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_14.22"
+      }
+    },
+    "vortex_4_variable_perturbation_15": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_15.22"
+      }
+    },
+    "vortex_4_variable_perturbation_16": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_16.22"
+      }
+    },
+    "vortex_4_variable_perturbation_17": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_17.22"
+      }
+    },
+    "vortex_4_variable_perturbation_18": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_18.22"
+      }
+    },
+    "vortex_4_variable_perturbation_19": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_19.22"
+      }
+    },
+    "vortex_4_variable_perturbation_20": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_20.22"
+      }
+    },
+    "vortex_4_variable_perturbation_21": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_21.22"
+      }
+    },
+    "vortex_4_variable_perturbation_22": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_22.22"
+      }
+    },
+    "vortex_4_variable_perturbation_23": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_23.22"
+      }
+    },
+    "vortex_4_variable_perturbation_24": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_24.22"
+      }
+    },
+    "vortex_4_variable_perturbation_25": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_25.22"
+      }
+    },
+    "vortex_4_variable_perturbation_26": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_26.22"
+      }
+    },
+    "vortex_4_variable_perturbation_27": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_27.22"
+      }
+    },
+    "vortex_4_variable_perturbation_28": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_28.22"
+      }
+    },
+    "vortex_4_variable_perturbation_29": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_29.22"
+      }
+    },
+    "vortex_4_variable_perturbation_30": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_30.22"
+      }
+    },
+    "vortex_4_variable_perturbation_31": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_31.22"
+      }
+    },
+    "vortex_4_variable_perturbation_32": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_32.22"
+      }
+    },
+    "vortex_4_variable_perturbation_33": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_33.22"
+      }
+    },
+    "vortex_4_variable_perturbation_34": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_34.22"
+      }
+    },
+    "vortex_4_variable_perturbation_35": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_35.22"
+      }
+    },
+    "vortex_4_variable_perturbation_36": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_36.22"
+      }
+    },
+    "vortex_4_variable_perturbation_37": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_37.22"
+      }
+    },
+    "vortex_4_variable_perturbation_38": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_38.22"
+      }
+    },
+    "vortex_4_variable_perturbation_39": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_39.22"
+      }
+    },
+    "vortex_4_variable_perturbation_40": {
+      "besttrack": {
+        "fort22_filename": "track_files/vortex_4_variable_perturbation_40.22"
+      }
+    }
+  }
+}
